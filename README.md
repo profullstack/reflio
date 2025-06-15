@@ -18,6 +18,8 @@ Reflio puts digital privacy first and is proudly open-source. All referrals are 
 
 ## Features / USPs
 
+[![Crypto Payment](https://paybadge.profullstack.com/badge.svg)](https://paybadge.profullstack.com/?tickers=btc%2Ceth%2Csol%2Cusdc)
+
 - Start a referral program for your SaaS in minutes
 - Track referrals for Stripe subscriptions or one-time payments
 - Cross sub-domain tracking
